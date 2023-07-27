@@ -1,115 +1,157 @@
 {
-  "id": 1,
+  "bracket_id": 1,
   "serial_url": "XASWE12DJUY765VF",
   "bracket_type": "single_elimination",
   "rounds": [
     {
-      "id": 1,
+      "round_id": 1,
       "title": "Round 1",
       "matches": [
-        {},
         {
-          "id": 1,
+          "match_id": 1,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         },
-        {},
         {
-          "id": 2,
+          "match_id": 2,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         },
-        {},
         {
-          "id": 1,
+          "match_id": 3,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         },
-        {},
         {
-          "id": 2,
+          "match_id": 4,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 5,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 6,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 7,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 8,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         }
       ]
     },
     {
-      "id": 2,
+      "round_id": 2,
       "title": "Round 2",
       "matches": [
-        {},
         {
-          "id": 1,
+          "match_id": 9,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         },
-        {},
         {
-          "id": 2,
+          "match_id": 10,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 11,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
+          ]
+        },
+        {
+          "match_id": 12,
+          "date": "2021-12-17T16:45:00.000Z",
+          "teams": [
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         }
       ]
     },
     {
-      "id": 3,
+      "round_id": 3,
       "title": "Round 3",
       "matches": [
         {
-          "id": 3,
+          "match_id": 13,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         },
         {
-          "id": 4,
+          "match_id": 14,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         }
       ]
     },
     {
-      "id": 4,
+      "round_id": 4,
       "title": "Round 4",
       "matches": [
         {
-          "id": 5,
+          "match_id": 15,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "id": 1, "name": "The Leons", "score": 2 },
-            { "id": 3, "name": "Kitties", "score": 6 }
+            { "team_id": 1, "name": "The Leons", "score": 2 },
+            { "team_id": 3, "name": "Kitties", "score": 6 }
           ]
         }
       ],
       "match3rd": {
-        "id": 5,
+        "match_id": 16,
         "date": "2034-12-17T16:45:00.000Z",
         "teams": [
-          { "id": 1, "name": "The 66666", "score": 2 },
-          { "id": 3, "name": "Kitties", "score": 6 }
+          { "team_id": 1, "name": "The 66666", "score": 2 },
+          { "team_id": 3, "name": "Kitties", "score": 6 }
         ]
       }
     }
