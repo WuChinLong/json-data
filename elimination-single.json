@@ -1,6 +1,5 @@
 {
-  "bracket_id": 1,
-  "serial_url": "XASWE12DJUY765VF",
+  "bracket_serial": "XASWE12DJUY765VF",
   "bracket_type": "single_elimination",
   "rounds": [
     {
@@ -11,64 +10,64 @@
           "match_id": 1,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 1, "team_id": 1, "name": "The Leons123456", "score": 2 },
-            { "match_team_id": 2, "team_id": 2, "name": "Kitties 5567876", "score": 6 }
+            { "match_team_id": 1, "team_id": 1, "name": "Red Hurricanes", "score": 4 },
+            { "match_team_id": 2, "team_id": 2, "name": "Kamikaze Chasers", "score": 3 }
           ]
         },
         {
           "match_id": 2,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 3, "team_id": 3, "name": "The Leons", "score": 2 },
-            { "match_team_id": 4, "team_id": 4, "name": "Kitties", "score": 6 }
+            { "match_team_id": 3, "team_id": 3, "name": "Crimson Hawks", "score": 2 },
+            { "match_team_id": 4, "team_id": 4, "name": "Moose Commandos", "score": 6 }
           ]
         },
         {
           "match_id": 3,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 5, "team_id": 5, "name": "The Leons", "score": 2 },
-            { "match_team_id": 6, "team_id": 6, "name": "Kitties", "score": 6 }
+            { "match_team_id": 5, "team_id": 5, "name": "Butterfly Reapers", "score": 1 },
+            { "match_team_id": 6, "team_id": 6, "name": "Silver Robots", "score": 2 }
           ]
         },
         {
           "match_id": 4,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 7, "team_id": 7, "name": "The Leons", "score": 2 },
-            { "match_team_id": 8, "team_id": 8, "name": "Kitties", "score": 6 }
+            { "match_team_id": 7, "team_id": 7, "name": "Quicksilver Planets", "score": 2 },
+            { "match_team_id": 8, "team_id": 8, "name": "Ghost Warriors", "score": 4 }
           ]
         },
         {
           "match_id": 5,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 9, "team_id": 9, "name": "The Leons", "score": 2 },
-            { "match_team_id": 10, "team_id": 10, "name": "Kitties", "score": 6 }
+            { "match_team_id": 9, "team_id": 9, "name": "Delta Buccaneers", "score": 5 },
+            { "match_team_id": 10, "team_id": 10, "name": "Gecko Spiders", "score": 4 }
           ]
         },
         {
           "match_id": 6,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 11, "team_id": 11, "name": "The Leons", "score": 2 },
-            { "match_team_id": 12, "team_id": 12, "name": "Kitties", "score": 6 }
+            { "match_team_id": 11, "team_id": 11, "name": "Extreme Mutants", "score": 5 },
+            { "match_team_id": 12, "team_id": 12, "name": "Fighting Wasps", "score": 4 }
           ]
         },
         {
           "match_id": 7,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 13, "team_id": 13, "name": "The Leons", "score": 2 },
-            { "match_team_id": 14, "team_id": 14, "name": "Kitties", "score": 6 }
+            { "match_team_id": 13, "team_id": 13, "name": "Silent Kamikaze Pilots", "score": 3 },
+            { "match_team_id": 14, "team_id": 14, "name": "Ice Pirates", "score": 4 }
           ]
         },
         {
           "match_id": 8,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 15, "team_id": 15, "name": "The Leons", "score": 2 },
-            { "match_team_id": 16, "team_id": 16, "name": "Kitties", "score": 6 }
+            { "match_team_id": 15, "team_id": 15, "name": "Retro Killers", "score": 2 },
+            { "match_team_id": 16, "team_id": 16, "name": "Deadly Crunchers", "score": 1 }
           ]
         }
       ]
@@ -81,32 +80,32 @@
           "match_id": 9,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 17, "team_id": 17, "name": "The Leons", "score": 2 },
-            { "match_team_id": 18, "team_id": 18, "name": "Kitties", "score": 6 }
+            { "match_team_id": 17, "team_id": 1, "name": "Red Hurricanes", "score": 2 },
+            { "match_team_id": 18, "team_id": 4, "name": "Moose Commandos", "score": 1 }
           ]
         },
         {
           "match_id": 10,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 19, "team_id": 1, "name": "The Leons", "score": 2 },
-            { "match_team_id": 20, "team_id": 3, "name": "Kitties", "score": 6 }
+            { "match_team_id": 19, "team_id": 6, "name": "Silver Robots", "score": 2 },
+            { "match_team_id": 20, "team_id": 8, "name": "Ghost Warriors", "score": 3 }
           ]
         },
         {
           "match_id": 11,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 21, "team_id": 1, "name": "The Leons", "score": 2 },
-            { "match_team_id": 22, "team_id": 3, "name": "Kitties", "score": 6 }
+            { "match_team_id": 21, "team_id": 9, "name": "Delta Buccaneers", "score": 2 },
+            { "match_team_id": 22, "team_id": 11, "name": "Extreme Mutants", "score": 3 }
           ]
         },
         {
           "match_id": 12,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 23, "team_id": 1, "name": "The Leons", "score": 2 },
-            { "match_team_id": 24, "team_id": 3, "name": "Kitties", "score": 6 }
+            { "match_team_id": 23, "team_id": 14, "name": "Ice Pirates", "score": 3 },
+            { "match_team_id": 24, "team_id": 15, "name": "Retro Killers", "score": 1 }
           ]
         }
       ]
@@ -119,16 +118,16 @@
           "match_id": 13,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 25, "team_id": 1, "name": "The Leons3455", "score": 2 },
-            { "match_team_id": 26, "team_id": 3, "name": "Kitties 23edd", "score": 6 }
+            { "match_team_id": 25, "team_id": 1, "name": "Red Hurricanes", "score": 2 },
+            { "match_team_id": 26, "team_id": 8, "name": "Ghost Warriors", "score": 5 }
           ]
         },
         {
           "match_id": 14,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 27, "team_id": 1, "name": "The Leons", "score": 2 },
-            { "match_team_id": 28, "team_id": 3, "name": "Kittiessdfdsfd", "score": 6 }
+            { "match_team_id": 27, "team_id": 11, "name": "Extreme Mutants", "score": 2 },
+            { "match_team_id": 28, "team_id": 14, "name": "Ice Pirates", "score": 4 }
           ]
         }
       ]
@@ -141,8 +140,8 @@
           "match_id": 15,
           "date": "2021-12-17T16:45:00.000Z",
           "teams": [
-            { "match_team_id": 29, "team_id": 1, "name": "The Leons", "score": 2 },
-            { "match_team_id": 30, "team_id": 3, "name": "Kitties", "score": 6 }
+            { "match_team_id": 29, "team_id": 8, "name": "Ghost Warriors", "score": 5 },
+            { "match_team_id": 30, "team_id": 14, "name": "Ice Pirates", "score": 4 }
           ]
         }
       ],
@@ -150,8 +149,8 @@
         "match_id": 16,
         "date": "2034-12-17T16:45:00.000Z",
         "teams": [
-          { "match_team_id": 31, "team_id": 1, "name": "The 66666", "score": 2 },
-          { "match_team_id": 32, "team_id": 3, "name": "Kitties", "score": 6 }
+          { "match_team_id": 31, "team_id": 1, "name": "Red Hurricanes", "score": 2 },
+          { "match_team_id": 32, "team_id": 11, "name": "Extreme Mutants", "score": 1 }
         ]
       }
     }
